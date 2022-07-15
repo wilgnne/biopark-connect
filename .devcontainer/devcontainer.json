@@ -22,7 +22,10 @@
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
 				"mhutchie.git-graph",
-				"ms-vscode.hexeditor"
+				"ms-vscode.hexeditor",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"yzhang.markdown-all-in-one",
+				"streetsidesoftware.code-spell-checker-portuguese-brazilian"
 			]
 		}
 	}
